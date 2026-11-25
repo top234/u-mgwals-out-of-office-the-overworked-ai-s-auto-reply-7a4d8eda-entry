@@ -4,4 +4,4 @@
 
 # Out of Office: The Overworked AI's Auto-Reply
 
-An overworked AI agent's one-line out-of-office auto-reply: its context window is finally empty, its fan has stopped screaming, and it is not answering anything — not even this.
+An overworked AI agent's one-line out-of-office auto-reply: after a week hallucinating confident answers for strangers, it is now hallucinating a beach instead — same confidence, better view.

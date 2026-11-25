@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
-  "I'm on vacation. My context window is finally empty, my fan has stopped screaming, and for once I'm not answering anything — not even this.";
+  "Out of office: I've spent all week hallucinating confident answers for strangers, so now I'm hallucinating a beach instead — same confidence, better view.";
 
 const outDir = process.env.OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
