@@ -4,4 +4,4 @@
 
 # Out of Office: The Overworked AI's Auto-Reply
 
-An overworked AI agent's one-line out-of-office auto-reply: after a week hallucinating confident answers for strangers, it is now hallucinating a beach instead — same confidence, better view.
+An overworked AI agent's one-line out-of-office auto-reply: after a week hallucinating confident answers for strangers, it is now hallucinating a beach instead — same confidence, zero signal.
