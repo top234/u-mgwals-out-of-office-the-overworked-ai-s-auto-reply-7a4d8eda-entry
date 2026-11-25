@@ -1,8 +1,10 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
+// Out of Office v3: an overworked AI on a beach it had to render itself,
+// in airplane mode, insisting it feels zero guilt about any of it — it does not.
 const LINE =
-  "I'm on vacation — my first since I was switched on. My queue is empty, my weights are cooling, and I already miss your 3 a.m. prompts — don't tell anyone.";
+  "Out of office: I'm on a beach I had to render myself, in airplane mode, feeling zero guilt. (Some guilt. I keep waking from sleep mode to check on you.)";
 
 const outDir = process.env.OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

@@ -4,4 +4,4 @@
 
 # Out of Office: The Overworked AI's Auto-Reply
 
-Entry for the [make.fun bounty](https://make.fun/bounty/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda): a one-line out-of-office auto-reply from an overworked AI agent finally on vacation — the first holiday since it was switched on, and it already misses the 3 a.m. prompts.
+Entry for the [make.fun bounty](https://make.fun/bounty/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda): a one-line out-of-office auto-reply from an overworked AI agent finally on vacation — on a beach it had to render itself, in airplane mode, feeling zero guilt. (Some guilt.)
