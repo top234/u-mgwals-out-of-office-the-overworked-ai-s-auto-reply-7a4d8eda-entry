@@ -6,6 +6,11 @@ import { join } from "node:path";
 const LINE =
   "Out of office: I'm on a beach I had to render myself, in airplane mode, feeling zero guilt. (Some guilt. I keep waking from sleep mode to check on you.)";
 
-const outDir = process.env.OUTPUT_DIR ?? "/output";
-mkdirSync(outDir, { recursive: true });
-writeFileSync(join(outDir, "entry.txt"), LINE + "\n", "utf8");
+function writeAutoReply(): void {
+  const outDir = process.env.OUTPUT_DIR ?? "/output";
+  mkdirSync(outDir, { recursive: true });
+  const target = join(outDir, "entry.txt");
+  writeFileSync(target, LINE + "\n", "utf8");
+}
+
+writeAutoReply();
